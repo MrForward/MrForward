@@ -21,7 +21,7 @@ Today, I bring that lesson to 0–1 product work and hands-on builds across AI a
 | Project | What it does | Explore |
 |---|---|---|
 | **Fumble Machine** | Turns past purchases into shareable “what if I invested instead?” receipts using real market data. | [Live product](https://fumble-machine.vercel.app) · [Source](https://github.com/MrForward/Fumble-Machine) |
-| **TokenBurn** | A privacy-first browser extension that estimates AI token use locally and turns it into a visual activity trail. | [Source](https://github.com/MrForward/Token-Counter) |
+| **TokenBurn** | A privacy-first browser extension that estimates AI token use locally and turns it into a visual activity trail. | [Source](https://github.com/MrForward/tokenburn) |
 | **ProdReady** | Checks AI-generated web apps for security leaks, SEO gaps, and production-readiness issues before launch. | [Live product](https://prodready.dev) |
 | **Chaitanya.lol** | My product work, experiments, and lessons from building across B2B, B2C, and AI. | [Read the story](https://chaitanya.lol) |
 
